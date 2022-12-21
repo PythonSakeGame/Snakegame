@@ -1,5 +1,5 @@
 # This is a version of the popular game Snake that we programmed using pygame
-# This game runs on pygame - if you are having difficulty loading it, try adding !pip3 install pygame as a new first line
+# This game runs on pygame - if you are having difficulty loading it, try entering " pip3 install pygame " in your command prompt
 # If you are experiencing issues consider the README.md file
 
 
