@@ -1,4 +1,4 @@
-# snake2
+# Snakegame
 This is our Version of the popular game Snake, programmed in python using the pygame module.
 
 You play as a  snake, and your goal is to eat as much food as possible without hitting yourself or the walls. For each item you eat, you grow by one unit and gain a point.
